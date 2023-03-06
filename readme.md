@@ -32,4 +32,4 @@ Organisations can build their own tech radars: [Build your own Tech Radar](https
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
