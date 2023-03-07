@@ -1,4 +1,4 @@
-# Aweseome Techradar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Techradar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Tech Radars
 
