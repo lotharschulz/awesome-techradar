@@ -28,6 +28,7 @@ Organisations can build their own tech radars: [Build your own Tech Radar](https
 - [Preply](https://tech-radar.preply.com/)
 - [Ciklum](https://www.ciklum.com/technology-radar)
 - [The Software House](https://tsh.io/technology-radar)
+- [AOE](https://www.aoe.com/techradar/index.html)
 
 ## Contribute
 
