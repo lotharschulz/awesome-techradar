@@ -16,7 +16,6 @@ Organisations can build their own tech radars: [Build your own Tech Radar](https
 - [Zalando](https://opensource.zalando.com/tech-radar/)
 - [Avito](https://techradar.avito.ru/)
 - [Tarmac](https://www.tarmac.io/techradar)
-- [BBV Technica](https://bbv.ch/technica-radar-2023/)
 - [Babbel](https://jobs.babbel.com/en/tech-radar/)
 - [Software AG](https://techradar.softwareag.com/)
 - [Getyourguide](https://techradar.getyourguide.com/)
