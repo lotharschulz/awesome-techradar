@@ -12,23 +12,23 @@ Organisations can build their own tech radars: [Build your own Tech Radar](https
 ## Tech Radars
 
 - [ThoughtWorks](https://www.thoughtworks.com/radar)
-- [Digitec Galaxus](https://www.galaxus.ch/techradar/)
-- [Zalando](https://opensource.zalando.com/tech-radar/)
-- [Avito](https://techradar.avito.ru/)
-- [Tarmac](https://www.tarmac.io/techradar)
-- [Babbel](https://jobs.babbel.com/en/tech-radar/)
-- [Software AG](https://techradar.softwareag.com/)
-- [Getyourguide](https://techradar.getyourguide.com/)
 - [Adesso](https://www.adesso.de/adesso/downloads/adesso-technologieradar.pdf)
 - [AOE](https://www.aoe.com/techradar/index.html)
+- [Atos](https://atos.net/en/lp/techradar)
+- [Avito](https://techradar.avito.ru/)
+- [Babbel](https://jobs.babbel.com/en/tech-radar/)
+- [Ciklum](https://www.ciklum.com/technology-radar)
+- [Digitec Galaxus](https://www.galaxus.ch/techradar/)
+- [Getyourguide](https://techradar.getyourguide.com/)
+- [INGKA](https://techradar.ingka.com/)
 - [Neofonie](https://neofonie.github.io/tech-radar/)
 - [Paradoxcat](https://paradoxcat.com/en/tech-radar-en/)
 - [Pirateship](https://pirateship.tech/radar)
-- [Atos](https://atos.net/en/lp/techradar)
 - [Preply](https://tech-radar.preply.com/)
-- [Ciklum](https://www.ciklum.com/technology-radar)
+- [Tarmac](https://www.tarmac.io/techradar)
 - [The Software House](https://tsh.io/technology-radar)
-- [INGKA](https://techradar.ingka.com/)
+- [Software AG](https://techradar.softwareag.com/)
+- [Zalando](https://opensource.zalando.com/tech-radar/)
 
 ## Contribute
 
